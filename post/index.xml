@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome</title>
-    <link>https://github.com/misstai/misstai.github.io.git/</link>
-    <description>Recent content on Welcome</description>
+    <title>Posts on Welcome</title>
+    <link>https://github.com/misstai/misstai.github.io.git/post/</link>
+    <description>Recent content in Posts on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Feb 2020 22:17:46 +0800</lastBuildDate><atom:link href="https://github.com/misstai/misstai.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Feb 2020 22:17:46 +0800</lastBuildDate><atom:link href="https://github.com/misstai/misstai.github.io.git/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>自整理的网络知识</title>
       <link>https://github.com/misstai/misstai.github.io.git/post/%E8%87%AA%E6%95%B4%E7%90%86%E7%9A%84%E7%BD%91%E7%BB%9C%E7%9F%A5%E8%AF%86/</link>

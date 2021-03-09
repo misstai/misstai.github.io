@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://misstai.github.io/categories/</loc>
+    <loc>https://github.com/misstai/misstai.github.io.git/post/</loc>
+    <lastmod>2020-02-08T22:17:46+08:00</lastmod>
   </url><url>
-    <loc>https://misstai.github.io/</loc>
+    <loc>https://github.com/misstai/misstai.github.io.git/</loc>
+    <lastmod>2020-02-08T22:17:46+08:00</lastmod>
   </url><url>
-    <loc>https://misstai.github.io/tags/</loc>
+    <loc>https://github.com/misstai/misstai.github.io.git/post/%E8%87%AA%E6%95%B4%E7%90%86%E7%9A%84%E7%BD%91%E7%BB%9C%E7%9F%A5%E8%AF%86/</loc>
+    <lastmod>2020-02-08T22:17:46+08:00</lastmod>
+  </url><url>
+    <loc>https://github.com/misstai/misstai.github.io.git/categories/</loc>
+  </url><url>
+    <loc>https://github.com/misstai/misstai.github.io.git/tags/</loc>
   </url>
 </urlset>
