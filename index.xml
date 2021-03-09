@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome</title>
-    <link>https://github.com/misstai/misstai.github.io.git/</link>
+    <link>https://misstai.github.io/</link>
     <description>Recent content on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Feb 2020 22:17:46 +0800</lastBuildDate><atom:link href="https://github.com/misstai/misstai.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Feb 2020 22:17:46 +0800</lastBuildDate><atom:link href="https://misstai.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>自整理的网络知识</title>
-      <link>https://github.com/misstai/misstai.github.io.git/post/%E8%87%AA%E6%95%B4%E7%90%86%E7%9A%84%E7%BD%91%E7%BB%9C%E7%9F%A5%E8%AF%86/</link>
+      <link>https://misstai.github.io/post/%E8%87%AA%E6%95%B4%E7%90%86%E7%9A%84%E7%BD%91%E7%BB%9C%E7%9F%A5%E8%AF%86/</link>
       <pubDate>Sat, 08 Feb 2020 22:17:46 +0800</pubDate>
       
-      <guid>https://github.com/misstai/misstai.github.io.git/post/%E8%87%AA%E6%95%B4%E7%90%86%E7%9A%84%E7%BD%91%E7%BB%9C%E7%9F%A5%E8%AF%86/</guid>
+      <guid>https://misstai.github.io/post/%E8%87%AA%E6%95%B4%E7%90%86%E7%9A%84%E7%BD%91%E7%BB%9C%E7%9F%A5%E8%AF%86/</guid>
       <description>OSI七层协议模型   应用层 FTP、HTTP、SMTP、Telnet、DNS   表示层   会话层   传输层 TCP、UDP等   网络层 IP、ICMP、ARP等   数据链路层 PPP协议   物理层   ​ ==TCP VS UDP 对比==
 都是传输层协议，TCP:传输控制协议 UDP:用户数据包协议
    TCP UDP     面向连接 非面向连接   可靠但性能差 不可靠但性能好   带数据包序列 不带数据包序列   全双工直连 一对一，一对多，多对一，多对多   慢开始、拥塞避免，快重传、快恢复 无拥塞控制   对效率要求低，对准确性要求高的场景适用，如下载、Email等 对效率要求高，准确性要求低的场景适用，如音视频    交换基础 交换机接口模式 交换机有三种接口模式</description>
